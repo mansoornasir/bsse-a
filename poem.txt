@@ -1,1 +1,3 @@
-This is a line in a file.
+This is a newer text.
+
+This is a new line.
